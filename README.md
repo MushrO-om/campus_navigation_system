@@ -1,0 +1,6 @@
+# campus_navigation_system
+北京邮电大学大二下学期数据结构课程设计作业：校园导航系统
+
+源文件在campus_navigation_system文件夹内，使用QtCreator打开.pro文件，需要修改QtCreator中的build和run的工作目录，之后运行即可。
+
+报告文件夹中为课程最终提交的实验报告，周报文件夹中有部分实验周报。
