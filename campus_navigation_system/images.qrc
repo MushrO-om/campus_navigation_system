@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/images">
+        <file alias="shahe">shahe.jpg</file>
+        <file alias="benbu">benbu.png</file>
+        <file alias="between">between.png</file>
+        <file alias="class">class.jpg</file>
+        <file alias="search">search.jpg</file>
+        <file alias="set_v">set_v.jpg</file>
+        <file alias="switch_benbu">switch_benbu.jpg</file>
+        <file alias="switch_between">switch_between.jpg</file>
+        <file alias="switch_shahe">switch_shahe.jpg</file>
+        <file alias="set_time">set_time.jpg</file>
+        <file alias="log">log.jpg</file>
+    </qresource>
+</RCC>
